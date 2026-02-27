@@ -69,6 +69,7 @@ Always generate from one source brief, then adapt into:
 
 Read [references/templates.md](references/templates.md) for reusable copy patterns.
 For a full example of one end-to-end run, read [references/example-run.md](references/example-run.md).
+For product scoring before execution, read [references/product-scorecard.md](references/product-scorecard.md).
 
 ### 4. Browser execution
 
@@ -136,3 +137,7 @@ Return results in this order:
 4. Browser-ready fields
 5. Risks and blockers
 6. KPI checklist
+
+For publish preparation and review, use:
+- [references/publish-checklists.md](references/publish-checklists.md)
+- [references/daily-review.md](references/daily-review.md)
