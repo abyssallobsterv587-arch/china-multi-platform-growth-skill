@@ -1,4 +1,4 @@
 version: 1
-display_name: China Multi-Platform Growth
-short_description: Semi-automated China growth ops for content, ecommerce, and chat funnels
-default_prompt: Plan a compliant multi-platform China growth workflow for one product. Select one primary platform, generate platform-specific copy, prepare browser-ready field values, and stop before irreversible publish actions unless explicitly requested.
+display_name: China Growth Ops
+short_description: Product selection, content ops, and ecommerce publish prep for Chinese platforms
+default_prompt: Plan a compliant China multi-platform growth workflow for one product. Score the product, choose one primary platform, generate platform-specific copy, prepare browser-ready field values, include publish checks and a daily review plan, and stop before irreversible publish actions unless explicitly requested.

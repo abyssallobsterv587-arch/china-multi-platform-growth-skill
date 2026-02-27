@@ -1,6 +1,6 @@
 ---
-name: china-multi-platform-growth
-description: Use this skill when the user wants compliant multi-platform content operations for Chinese platforms such as Douyin, Xiaohongshu, Kuaishou, WeChat, and major ecommerce marketplaces. This skill helps with product selection, offer positioning, content drafting, lead capture funnels, listing optimization, and semi-automated browser workflows. Do not use this skill for spam, mass unsolicited messaging, fake engagement, or bypassing platform rules.
+name: china-growth-ops
+description: Master compliant China multi-platform growth operations across Douyin, Xiaohongshu, Kuaishou, WeChat, and major ecommerce marketplaces. Use for product selection, offer positioning, content strategy, listing copy, social captions, chat reply flows, lead capture funnels, browser-ready field preparation, publish checklists, and daily growth review. Do not use for spam, fake engagement, mass unsolicited messaging, or platform rule circumvention.
 ---
 
 # China Multi-Platform Growth
