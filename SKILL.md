@@ -1,0 +1,125 @@
+---
+name: china-multi-platform-growth
+description: Use this skill when the user wants compliant multi-platform content operations for Chinese platforms such as Douyin, Xiaohongshu, Kuaishou, WeChat, and major ecommerce marketplaces. This skill helps with product selection, offer positioning, content drafting, lead capture funnels, listing optimization, and semi-automated browser workflows. Do not use this skill for spam, mass unsolicited messaging, fake engagement, or bypassing platform rules.
+---
+
+# China Multi-Platform Growth
+
+Use this skill for Chinese-market growth operations across short-video, social, chat, and ecommerce workflows.
+
+This skill is for:
+- Product selection and demand validation
+- Offer positioning and pricing angles
+- Drafting scripts, captions, titles, listing copy, and chat replies
+- Coordinating semi-automated posting workflows in a browser
+- Building lead capture funnels that still require human approval at final publish points
+
+This skill is not for:
+- Mass unsolicited outreach
+- Fake engagement, bot traffic, or review manipulation
+- Account farming, ban evasion, or platform rule circumvention
+- Fully autonomous posting without human review on high-risk pages
+
+## Default Execution Model
+
+Treat this as a semi-automatic operating system:
+
+1. Pick one product, offer, or campaign goal.
+2. Choose one primary platform and one secondary platform.
+3. Produce platform-specific copy from a single source offer.
+4. Prepare browser steps and field values.
+5. Stop at login, captcha, payment, publish, or other irreversible actions unless the user explicitly wants blind GUI attempts.
+6. Record outputs and next actions for reuse.
+
+## Core Workflow
+
+### 1. Define the commercial unit
+
+Before drafting content, lock these inputs:
+- Product or service
+- Target buyer
+- Price band
+- Conversion goal
+- Primary platform
+
+If the user is vague, default to:
+- One SKU
+- One audience
+- One platform-first test
+
+### 2. Select products and angles
+
+For product selection and offer framing:
+- Prefer products with clear pain relief, visible before/after value, repeat demand, or impulse appeal
+- Avoid products needing medical, legal, or highly regulated claims
+- Generate 3 candidate angles, then select 1 winner
+
+Read [references/platforms.md](references/platforms.md) for platform-specific product and content angles.
+
+### 3. Generate copy assets
+
+Always generate from one source brief, then adapt into:
+- Short video hook
+- Caption
+- Product title
+- Product highlights
+- FAQ / objection handling
+- Chat reply templates
+
+Read [references/templates.md](references/templates.md) for reusable copy patterns.
+
+### 4. Browser execution
+
+When using browser or GUI automation:
+- Prefer filling drafts, descriptions, tags, and metadata
+- Prefer opening the correct page and preparing form values
+- Require human confirmation for final publish, payment, private messaging bursts, or irreversible account actions
+- If the user insists on blind GUI, report the risk and keep the action scope narrow
+
+### 5. Reporting
+
+After each run, summarize:
+- Platform
+- Offer
+- Copy created
+- Page prepared
+- Blocking step
+- Next manual action
+
+## Platform Coverage
+
+This skill supports:
+- Douyin
+- Xiaohongshu
+- Kuaishou
+- WeChat / WeCom style chat workflows
+- Taobao / Tmall
+- JD
+- Pinduoduo
+- 1688
+- Generic ecommerce landing pages
+
+Use platform-specific language and formatting, not one generic post for everything.
+
+## Safety and Compliance
+
+Never optimize for:
+- Spam volume
+- Fake scarcity
+- Fabricated reviews
+- Guaranteed earnings claims
+- Misleading health, finance, or compliance claims
+
+When in doubt:
+- downgrade to draft-only mode
+- ask for human review before publish
+- preserve account safety over speed
+
+## Deliverables
+
+A standard run should return:
+- Selected product angle
+- Platform-specific copy pack
+- Suggested browser actions
+- Publish blockers
+- KPI checklist for the next review
