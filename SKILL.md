@@ -7,6 +7,10 @@ description: Master compliant China multi-platform growth operations across Douy
 
 Use this skill for Chinese-market growth operations across short-video, social, chat, and ecommerce workflows.
 
+For repository onboarding and environment checks:
+- Use [docs/install.md](docs/install.md) for quick install and execution guidance
+- Use [scripts/doctor.sh](scripts/doctor.sh) for a lightweight local readiness check
+
 This skill is for:
 - Product selection and demand validation
 - Offer positioning and pricing angles
